@@ -1,0 +1,2 @@
+# Variant specific props
+import /product/product.${ro.boot.rf_version}.prop
